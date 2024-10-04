@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/divine/static/css/main.a7f609d2.chunk.css",
+    "main.js": "/divine/static/js/main.0507b373.chunk.js",
+    "main.js.map": "/divine/static/js/main.0507b373.chunk.js.map",
+    "runtime-main.js": "/divine/static/js/runtime-main.719409ec.js",
+    "runtime-main.js.map": "/divine/static/js/runtime-main.719409ec.js.map",
+    "static/css/2.7b1f77b4.chunk.css": "/divine/static/css/2.7b1f77b4.chunk.css",
+    "static/js/2.aab579af.chunk.js": "/divine/static/js/2.aab579af.chunk.js",
+    "static/js/2.aab579af.chunk.js.map": "/divine/static/js/2.aab579af.chunk.js.map",
+    "index.html": "/divine/index.html",
+    "precache-manifest.c105f0c3d378baaa39d1c1e80f056293.js": "/divine/precache-manifest.c105f0c3d378baaa39d1c1e80f056293.js",
+    "service-worker.js": "/divine/service-worker.js",
+    "static/css/2.7b1f77b4.chunk.css.map": "/divine/static/css/2.7b1f77b4.chunk.css.map",
+    "static/css/main.a7f609d2.chunk.css.map": "/divine/static/css/main.a7f609d2.chunk.css.map",
+    "static/js/2.aab579af.chunk.js.LICENSE.txt": "/divine/static/js/2.aab579af.chunk.js.LICENSE.txt",
+    "static/media/About.png": "/divine/static/media/About.ad4427cc.png",
+    "static/media/About2.png": "/divine/static/media/About2.16683949.png",
+    "static/media/arrow.svg": "/divine/static/media/arrow.a74212b6.svg",
+    "static/media/background.jpg": "/divine/static/media/background.a564bf21.jpg",
+    "static/media/dribble.svg": "/divine/static/media/dribble.db57da79.svg",
+    "static/media/facebook.svg": "/divine/static/media/facebook.aa1e8c9c.svg",
+    "static/media/hero.png": "/divine/static/media/hero.190e6575.png",
+    "static/media/mobile-close.svg": "/divine/static/media/mobile-close.f521cf45.svg",
+    "static/media/mobile-menu.svg": "/divine/static/media/mobile-menu.10823520.svg",
+    "static/media/name_logo.png": "/divine/static/media/name_logo.0ec3d3e2.png",
+    "static/media/partner01.jpg": "/divine/static/media/partner01.8ce4eaff.jpg",
+    "static/media/partner02.jpg": "/divine/static/media/partner02.523c620f.jpg",
+    "static/media/partner04.webp": "/divine/static/media/partner04.a3ca386a.webp",
+    "static/media/partner05.png": "/divine/static/media/partner05.b250ba53.png",
+    "static/media/preview.png": "/divine/static/media/preview.73351b16.png",
+    "static/media/twitter.svg": "/divine/static/media/twitter.0ecdf21a.svg",
+    "static/media/white.png": "/divine/static/media/white.a0f2b83d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.719409ec.js",
+    "static/css/2.7b1f77b4.chunk.css",
+    "static/js/2.aab579af.chunk.js",
+    "static/css/main.a7f609d2.chunk.css",
+    "static/js/main.0507b373.chunk.js"
+  ]
+}
